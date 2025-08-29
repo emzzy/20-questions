@@ -8,7 +8,9 @@ Repeat.
 
 ## Variants
 
-1. Ask the user to enter a sentence, and output the reverse.\E.g. I am a boy becomes yob a ma I.
+1. Ask the user to enter a sentence, and output the reverse.
+    
+    E.g. I am a boy becomes yob a ma I.
 
 2. Ask the user to enter a sentence, and output the reverse of each word.  
 
