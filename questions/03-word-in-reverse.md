@@ -12,4 +12,4 @@ Repeat.
 
 2. Ask the user to enter a sentence, and output the reverse of each word.  
 
-E.g. I am a boy becomes I ma a yob.
+    E.g. I am a boy becomes I ma a yob.
